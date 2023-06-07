@@ -1,3 +1,5 @@
+namespace NumberRandomizer;
+
 public static class IntArrayExtensions
 {
     public static int[] Shuffle(this int[] input)
